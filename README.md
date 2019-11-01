@@ -1,5 +1,4 @@
-# README
+# FAQ Chatbot
 
-This FAQ chatbot was made as part of a Walmart Hackathon. <br/>
-Uses Luong Attention based encoder-decoder model (check the seminal paper Effective Approaches to Attention-based Neural Machine Translation) trained on conversation logs related to travel sector, to answer questions.<br/>
+This FAQ chatbot, trained on conversation logs related to travel sector, uses an encoder and a greedy search decoder with Luong Attention (based on the seminal paper in Machine Translation: Effective Approaches to Attention-based Neural Machine Translation) to answer questions related to booking flights, hotels etc.<br/>
 Enjoy!
